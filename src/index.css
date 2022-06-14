@@ -4,5 +4,6 @@ body {
 
 @font-face {
     font-family: 'Pixel';
-    src: url(font/pixel_lcd7/Pixel\ LCD-7.fon) format('fon');
-}
+    font-weight: 200;
+    src: url('./font/advanced-pixel-7.woff') format('woff');
+    }
